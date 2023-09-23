@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm BinotaLIU
 
-#### I'm a web artisan 😎
+**I'm a web artisan** 😎
 
 I'm building web applications using [Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/), [Inertia.js](https://inertiajs.com/), and [TailwindCSS](https://tailwindcss.com/).
 
