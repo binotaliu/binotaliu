@@ -17,7 +17,7 @@ Mi faras TTT-aplikojn per [Laravel](https://laravel.com/), [Vue.js](https://vuej
 
 ----
 
-#### toki 👋 mi kejetesantakalu Pinota
+#### toki 👋 mi kijetesantakalu Pinota
 
 **mi jan li pali e lipu** 😎
 
